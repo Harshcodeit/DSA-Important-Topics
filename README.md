@@ -1,41 +1,34 @@
 # 📘 DSA & LeetCode Solutions Repository
 
 Welcome to my personal collection of **Data Structures & Algorithms** problems, primarily solved on [LeetCode](https://leetcode.com/).  
-This repository serves as a **revision tool**, a **learning log**, and a way to **track progress** for coding interviews and competitive programming.
+This repository serves as a final **revision tool**, a **learning log**, and a way to **track progress** for coding interviews and competitive programming.
 
 ---
 
 ## 📚 Topics Covered
-- Arrays  
-- Strings  
-- Hashing  
-- Linked List  
-- Stack & Queue  
-- Trees & Binary Trees  
-- Binary Search Trees  
-- Heaps & Priority Queue  
-- Recursion & Backtracking  
-- Sliding Window & Two Pointers  
-- Graphs (BFS, DFS, Dijkstra, etc.)  
-- Dynamic Programming  
-- Bit Manipulation  
-- Greedy Algorithms  
-- Tries  
+🧠 DSA Cheat Sheet
+🔢 Arrays
+Prefix Sum / Difference Array
+Kadane’s Algorithm (max subarray)
+Sliding Window (fixed / variable)
+Two Pointers
+Dutch National Flag (3-way partition)
+Boyer–Moore Voting (majority)
+
+
 
 ---
 
-Each solution contains:  
-✅ **Problem link**  
+Each solution contains:   
 🧠 **Approach explanation** (in comments or markdown)  
-💻 **Code** (C++ / Java / Python)  
+💻 **Code** (C++)  
 📊 **Time and space complexity** (optional)  
 
 ---
 
-<img width="724" height="530" alt="image" src="https://github.com/user-attachments/assets/44b97f55-aa5a-486c-bbc6-fefa0e32b7a0" />
 
 ---
 
 ## 🚀 Goal
 
-To stay consistent and become fluent in solving algorithmic problems by covering at least `X` problems per topic and learning multiple approaches wherever possible.
+The goal of the repository is to provide a quick revision sheet for internships and placements.
