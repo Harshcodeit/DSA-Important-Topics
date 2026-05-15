@@ -1,0 +1,142 @@
+🧠 DSA Cheat Sheet
+🔢 Arrays
+Prefix Sum / Difference Array
+Kadane’s Algorithm (max subarray)
+Sliding Window (fixed / variable)
+Two Pointers
+Dutch National Flag (3-way partition)
+Boyer–Moore Voting (majority)
+
+🔤 Strings
+KMP (pattern matching)
+Z-Algorithm
+Rabin–Karp (rolling hash)
+Manacher’s (palindromes)
+Trie (prefix search)
+Anagram / frequency tricks
+
+📚 Sorting
+Quick Sort
+Merge Sort
+Heap Sort
+Counting / Radix Sort
+Custom comparator sorting
+
+🔍 Binary Search
+Classic binary search
+Lower_bound / Upper_bound
+Binary search on answer
+Ternary search (rare)
+
+📦 Hashing
+HashMap / HashSet usage
+Frequency counting
+Prefix hashing (strings)
+Rolling hash
+
+🧵 Linked List
+Reverse (iterative/recursive)
+Fast & slow pointer
+Cycle detection (Floyd)
+Merge two lists
+LRU Cache (DLL + hashmap)
+
+🌳 Trees
+DFS (pre/in/post)
+BFS (level order)
+Diameter of tree
+LCA (binary lifting)
+Tree DP
+Flatten tree
+
+🌲 Binary Search Tree
+Insert / Delete / Search
+Inorder = sorted
+Kth smallest/largest
+
+📊 Heaps / Priority Queue
+Min/Max heap
+Top K elements
+Merge K sorted arrays
+Dijkstra / Prim
+
+🧮 Greedy
+Activity selection
+Interval merging
+Huffman coding
+Gas station
+Jump game
+
+🧠 Dynamic Programming
+1D DP (fibonacci, climbing stairs)
+2D DP (grid, knapsack)
+LIS (O(n log n))
+LCS / Edit distance
+Partition DP
+Bitmask DP
+Digit DP
+
+🔗 Graphs
+Traversal
+BFS
+DFS
+Shortest Path
+Dijkstra
+Bellman-Ford
+Floyd-Warshall
+MST
+Kruskal (DSU)
+Prim
+Others
+Topological Sort (Kahn / DFS)
+Cycle detection
+Strongly Connected Components (Kosaraju)
+
+🔌 Disjoint Set (DSU)
+Union by rank/size
+Path compression
+Connected components
+Kruskal
+
+🧱 Segment Tree / Fenwick Tree
+Range sum / min / max
+Lazy propagation
+BIT (Fenwick)
+
+🔢 Math
+GCD (Euclid)
+Modular exponentiation
+Modular inverse (Fermat)
+Sieve of Eratosthenes
+Combinatorics (nCr)
+Inclusion-Exclusion
+
+🧩 Bit Manipulation
+XOR tricks
+Subsets (bitmask)
+Set/clear/check bit
+Power of 2
+Brian Kernighan’s algo
+
+🧭 Backtracking
+Subsets / permutations
+N-Queens
+Sudoku
+Generate combinations
+
+⚙️ Advanced
+Mo’s Algorithm
+Sparse Table (RMQ)
+Binary Lifting
+Heavy-Light Decomposition
+Meet in the Middle
+
+🧠 Patterns (VERY IMPORTANT)
+Prefix sum
+Sliding window
+Two pointers
+Greedy + sorting
+DP state design
+Binary search on answer
+Graph traversal
+Interval merging

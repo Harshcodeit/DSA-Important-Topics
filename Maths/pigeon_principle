@@ -1,0 +1,7 @@
+Let there be N copies of x and N other distinct elements
+Then,some copies of x occur within distances 1 or 2
+
+Proof;
+x**x**x**...nth x**
+
+If distance of 3 is maintained, we need 2(N-1) distinct element,hence impossible
