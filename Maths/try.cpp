@@ -67,18 +67,18 @@ int main(){
         s1=-1,e1=-1;
         cnt=0;
         for(auto& it : subarr){
-        if(it[0] > e1 || it[1] < s1){
-            ans+=it[2];
-            cnt++;
-            s1=it[0],e1=it[1];
-            for(int i=it[0];i<=it[1];i++) cout<<nums[i]<<" ";
-            cout<<it[2]<<endl;
-            if(cnt==k){
-                cout<< ans<<endl;
-                break;
+            if(it[0] > e1 || it[1] < s1){
+                ans+=it[2];
+                cnt++;
+                s1=it[0],e1=it[1];
+                for(int i=it[0];i<=it[1];i++) cout<<nums[i]<<" ";
+                cout<<it[2]<<endl;
+                if(cnt==k){
+                    cout<< ans<<endl;
+                    break;
+                }
             }
         }
-    }
     }
     cout<<ans;
 }
