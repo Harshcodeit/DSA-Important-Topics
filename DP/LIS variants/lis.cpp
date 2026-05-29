@@ -46,7 +46,7 @@ int f2(vector<int>&nums){
     return maxLIS;
 }
 
-//lazy sorting-O(nlogn)-For the same LIS length, keeping a smaller tail is always better.
+//lazy/patience sorting sorting-O(nlogn)-For the same LIS length, keeping a smaller tail is always better.
 int f3(vector<int>&nums){
     int n=nums.size();
     vector<int>temp;

@@ -42,7 +42,7 @@ int main(){
 
     int k;
     cin>>k;
-    cout<<f(nums,k);
+    cout<<countSubarrays(nums,k);
 }
 
 /*
